@@ -1,0 +1,3 @@
+1. yes, they are similar. similar number of nodes, similar shape(non-linear, falling)
+2. rich gets richer. there are many nodes that have few or zero incoming nodes, but the ones that have many do have a lot.
+3. still rich gets richer. once a paper is cited by some other papers, there is a better chance that this paper would be seen, and hence be cited again.
